@@ -3,11 +3,12 @@
 - 📝 Design + code interactive websites
 - 🎮 Coding, [game development](https://battlerockgames.com), [XR technologies](https://www.youtube.com/watch?v=IBscEPN4684&list=PLJEpIiwSQXrSlxagHN4Gu1-lGLPwE74IZ).
 - 📬 <a target="_blank" href="https://twitter.com/thunderawesome">Twitter</a>, <a href="https://troyjsanders.com">Portfolio</a>, <a href="https://www.youtube.com/channel/UCTZtI2_kC7w8E-O-1pEqmNg">YouTube</a>, <a href="https://codesandbox.io/u/thunderawesome">CodeSandbox</a>
+- ⚡ Fun fact: I have participated in 40+ hackathons / game jams!!
 
 ## Work
 
 ### Current
-- Looking for work!!
+- 🔭 Looking for work!!
 
 ### Past
 - Senior Software Engineer at [Scanifly](https://scanifly.com)
