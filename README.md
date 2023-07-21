@@ -1,7 +1,7 @@
 # Hi there! I'm Troy!
 
 - 📝 Design + code interactive websites
-- 🎮 Coding, [game dev](https://battlerockgames.com), [XR technologies](https://www.youtube.com/watch?v=IBscEPN4684&list=PLJEpIiwSQXrSlxagHN4Gu1-lGLPwE74IZ).
+- 🎮 Coding, [game development](https://battlerockgames.com), [XR technologies](https://www.youtube.com/watch?v=IBscEPN4684&list=PLJEpIiwSQXrSlxagHN4Gu1-lGLPwE74IZ).
 - 📬 <a target="_blank" href="https://twitter.com/thunderawesome">Twitter</a>, <a href="https://troyjsanders.com">Portfolio</a>, <a href="https://www.youtube.com/channel/UCTZtI2_kC7w8E-O-1pEqmNg">YouTube</a>, <a href="https://codesandbox.io/u/thunderawesome">CodeSandbox</a>
 
 ## Work
