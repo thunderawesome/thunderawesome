@@ -1,6 +1,6 @@
 # Hi there! I'm Troy!
 
-- 📝 Design + code interactive websites
+- 📝 Design + code interactive websites, apps, and games
 - 🎮 Coding, [game development](https://battlerockgames.com), [XR technologies](https://www.youtube.com/watch?v=IBscEPN4684&list=PLJEpIiwSQXrSlxagHN4Gu1-lGLPwE74IZ).
 - 📬 <a target="_blank" href="https://twitter.com/thunderawesome">Twitter</a>, <a href="https://troyjsanders.com">Portfolio</a>, <a href="https://www.youtube.com/channel/UCTZtI2_kC7w8E-O-1pEqmNg">YouTube</a>, <a href="https://codesandbox.io/u/thunderawesome">CodeSandbox</a>
 - ⚡ Fun fact: I have participated in 50+ hackathon events!!
@@ -12,7 +12,7 @@
 
 ### Past
 - Senior Software Engineer at [Scanifly](https://scanifly.com)
-- Senior Manager, Software Development & Engineering at [Charles Schwab](https://www.schwab.com/) working on Schwab Advisor Center Mobile [iOS](https://apps.apple.com/us/app/schwab-advisor-center-mobile/id534260637) / [Android](https://play.google.com/store/apps/details?id=com.schwab.as.mobile&hl=en_US&gl=US)
+- Manager, Software Development & Engineering at [Charles Schwab](https://www.schwab.com/) working on Schwab Advisor Center Mobile [iOS](https://apps.apple.com/us/app/schwab-advisor-center-mobile/id534260637) / [Android](https://play.google.com/store/apps/details?id=com.schwab.as.mobile&hl=en_US&gl=US)
 - Senior Software Engineer at Austin/L.A. startup [Wave](https://wavexr.com/) working on Virtual Concert technologies and User-Generated Content
 - Senior Software Engineer at Austin startup [Viewer Ready](https://viewerready.com/) working on two sports VR games: [Pitch-Hit](https://store.steampowered.com/app/527580/PITCHHIT_ARCADE/) and [Super Hoops](https://viewerready.com/project/super-hoops/)
  
