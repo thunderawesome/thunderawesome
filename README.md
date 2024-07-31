@@ -8,7 +8,7 @@
 ## Work
 
 ### Current
-- 🔭 Looking for work!!
+- Principal Software Engineer at [Verizon](https://www.verizon.com/business/solutions/industry/manufacturing/smart-manufacturing-and-industry-4-0/)
 
 ### Past
 - Senior Software Engineer at [Scanifly](https://scanifly.com)
