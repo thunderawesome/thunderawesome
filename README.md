@@ -15,6 +15,10 @@
 - Manager, Software Development & Engineering at [Charles Schwab](https://www.schwab.com/) working on Schwab Advisor Center Mobile [iOS](https://apps.apple.com/us/app/schwab-advisor-center-mobile/id534260637) / [Android](https://play.google.com/store/apps/details?id=com.schwab.as.mobile&hl=en_US&gl=US)
 - Senior Software Engineer at Austin/L.A. startup [Wave](https://wavexr.com/) working on Virtual Concert technologies and User-Generated Content
 - Senior Software Engineer at Austin startup [Viewer Ready](https://viewerready.com/) working on two sports VR games: [Pitch-Hit](https://store.steampowered.com/app/527580/PITCHHIT_ARCADE/) and [Super Hoops](https://viewerready.com/project/super-hoops/)
+- CEO at [Battlerock Games](https://www.battlerockgames.com/)
+- Director of Engineering at Madison startup [608 Games](https://x.com/608Games)
+- Software Engineer at [New Resources Consulting](https://newresources.com/)
+- Software Engineer at [QBE Insurance Group](https://www.qbe.com/us)
  
 ## Side Projects
 - <a href="https://codesandbox.io/s/1cvvf1">Scanifly 3D</a> - 3D remake of the landing page for the [Scanifly](https://scanifly.com) website.
