@@ -1,47 +1,56 @@
-# Hi there! I'm Troy!
+# Hi there! I'm Troy! 👋
 
-- 📝 Design + code interactive websites, apps, and games
-- 🎮 Coding, [game development](https://battlerockgames.com), [XR technologies](https://www.youtube.com/watch?v=IBscEPN4684&list=PLJEpIiwSQXrSlxagHN4Gu1-lGLPwE74IZ).
-- 📬 <a target="_blank" href="https://twitter.com/thunderawesome">Twitter</a>, <a href="https://troyjsanders.com">Portfolio</a>, <a href="https://www.youtube.com/channel/UCTZtI2_kC7w8E-O-1pEqmNg">YouTube</a>, <a href="https://codesandbox.io/u/thunderawesome">CodeSandbox</a>
-- ⚡ Fun fact: I have participated in 50+ hackathon events!!
+**Principal Software Engineer | Research & Development**
 
-## Work
+I am an experienced engineering leader specializing in high-performance graphics, simulation, and interactive technologies. My work sits at the intersection of R&D, Industry 4.0, and immersive experiences (XR). 
 
-### Current
-- Principal Software Engineer at [Verizon](https://www.verizon.com/business/solutions/industry/manufacturing/smart-manufacturing-and-industry-4-0/)
+**🚀 Currently seeking new opportunities where I can leverage my expertise in robotics, simulation, or complex systems engineering.**
 
-### Past
-- Senior Software Engineer at [Scanifly](https://scanifly.com)
-- Manager, Software Development & Engineering at [Charles Schwab](https://www.schwab.com/) working on Schwab Advisor Center Mobile [iOS](https://apps.apple.com/us/app/schwab-advisor-center-mobile/id534260637) / [Android](https://play.google.com/store/apps/details?id=com.schwab.as.mobile&hl=en_US&gl=US)
-- Senior Software Engineer at Austin/L.A. startup [Wave](https://wavexr.com/) working on Virtual Concert technologies and User-Generated Content
-- Senior Software Engineer at Austin startup [Viewer Ready](https://viewerready.com/) working on two sports VR games: [Pitch-Hit](https://store.steampowered.com/app/527580/PITCHHIT_ARCADE/) and [Super Hoops](https://viewerready.com/project/super-hoops/)
-- CEO at [Battlerock Games](https://www.battlerockgames.com/)
-- Director of Engineering at Madison startup [608 Games](https://x.com/608Games)
-- Software Engineer at [New Resources Consulting](https://newresources.com/)
-- Software Engineer at [QBE Insurance Group](https://www.qbe.com/us)
- 
-## Side Projects
-- <a href="https://codesandbox.io/s/1cvvf1">Scanifly 3D</a> - 3D remake of the landing page for the [Scanifly](https://scanifly.com) website.
-- <a href="https://codesandbox.io/s/elastic-wave-rdnm9t">Experimental 3D Portfolio</a> - React-Three-Fiber portfolio website sample.
-- <a href="https://codesandbox.io/s/reverent-euler-smr1n3">Market Bubbles</a> - 3D interactive stock viewer made at [Charles Schwab](https://www.schwab.com/) via the Research & Development team.
+---
 
+### 🛠 Tech Stack & Focus Areas
 
-## Code Challenges
-- [Taxonomy](https://github.com/thunderawesome/taxonomy) - Experimental fork to play around with Next.js 13+ features and API integrations
-- [3D DOTS Tilemap](https://github.com/thunderawesome/3DTileMapDOTS) - Unity DOTS + Burst Compiler for generating 3D tilemaps
-- [Inktober 2018](https://github.com/thunderawesome/inktober) - Game dev spin on [#inktober trend on Twitter](https://twitter.com/hashtag/Inktober) - Each day built on the previous day's features
+- **Research & Development:** Prototyping, Industry 4.0, and IoT solutions.
+- **Simulation & Robotics:** Autonomy, physics-based simulation, and digital twins.
+- **Graphics Programming:** Vulkan, OpenGL, C++, and Shader development.
+- **Web Technology:** React, TypeScript, Vite, Python, and FastAPI.
+- **Game Engines & XR:** Unity3D, Godot, Unreal Engine, and XR (VR/AR/MR) technologies.
 
-<!--
-**thunderawesome/thunderawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Recent Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Web & Front-End
+- **[Portfolio](https://troyjsanders.com)** - My interactive professional portfolio.
+- **[Tuesdate](https://tuesdate.com)** - Cute countdown for me and my girlfriend.
+- **[Jumping In With Jenn](https://jumpinginwithjenn.com/)** - Podcast site using RSS feeds.
+
+#### 🎮 Games & Immersive
+- **[Voxelotl Garden](https://store.steampowered.com/app/1285860/Voxelotl_Garden/)** - A cozy voxel-based creature sim (Available on Steam).
+- **[Bubble Boyz](https://gitlab.com/troyjsanders/ggj2025)** - Global Game Jam 2025 entry.
+- **[Taptopia](https://play.unity.com/en/games/daf44041-aad1-4cbb-b860-053b17739490/taptopia)** - Celebrated the 10-year anniversary at [MDEV 2025](https://www.mdevconf.com/).
+
+#### 🦀 Graphics & Systems
+- **[Vulkan Cube](https://github.com/thunderawesome/vulkan-cube)** - A clean, low-level implementation of the Vulkan API.
+- **[OpenGL Cube](https://github.com/thunderawesome/opengl-cube)** - Graphics fundamentals and pipeline exploration.
+
+---
+
+### 💼 Professional Journey
+
+- **Principal Software Engineer @ Verizon** – Vehicle-To-Everything (V2X) and Industry 4.0 initiatives.
+- **Senior Software Engineer @ Scanifly** – Digital Twin technology for placing 3D solar panels.
+- **Manager, Software Development @ Charles Schwab** – Manager of Schwab Advisor Center and Thematic mobile back-ends.
+- **Senior Software Engineer @ Wave** – Building the future of virtual concerts in Virtual Reality.
+- **Senior Software Engineer @ Viewer Ready** – Developing VR sports titles like *Pitch-Hit* and *Super Hoops*.
+
+---
+
+### 📬 Let's Connect
+
+- **Portfolio:** [troyjsanders.com](https://troyjsanders.com)
+- **Twitter/X:** [@thunderawesome](https://twitter.com/thunderawesome)
+- **YouTube:** [ThunderAwesome Channel](https://www.youtube.com/channel/UCTZtI2_kC7w8E-O-1pEqmNg)
+- **CodeSandbox:** [thunderawesome](https://codesandbox.io/u/thunderawesome)
+
+**⚡ Fun fact:** I have participated in over **50 game jams/hackathons**! I love the challenge of building something from zero to one in a weekend.
