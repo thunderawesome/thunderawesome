@@ -33,6 +33,7 @@ I am an experienced engineering leader specializing in high-performance graphics
 #### 🦀 Graphics & Systems
 - **[Vulkan Cube](https://github.com/thunderawesome/vulkan-cube)** - A clean, low-level implementation of the Vulkan API.
 - **[OpenGL Cube](https://github.com/thunderawesome/opengl-cube)** - Graphics fundamentals and pipeline exploration.
+- **[Cozy Acres GL](https://github.com/thunderawesome/cozy-acres-gl)** - Town generator tool. Inspired heavily by Animal Crossing (GameCube Edition).
 
 ---
 
